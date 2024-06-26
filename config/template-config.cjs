@@ -30,7 +30,9 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      {{earthy_love_words.DATA.DATA}}
+      {{earthy_love_words.DATA}}
+
+      {{love_horoscope.DATA}}
       
       {{poetry_title.DATA}} {{poetry_content.DATA}}
     `
