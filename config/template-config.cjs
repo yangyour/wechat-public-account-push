@@ -30,7 +30,7 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      {{moment_copyrighting.DATA}}
+      {{earthy_love_words.DATA.DATA}}
       
       {{poetry_title.DATA}} {{poetry_content.DATA}}
     `
